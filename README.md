@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Juhi Lasod ! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/juhi-lasod-bb7295257)
 
