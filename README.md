@@ -1,4 +1,8 @@
-# Hello, I'm Juhi Lasod ! 👋
+# Hello 👋, I'm Juhi Lasod !  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<div >
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/juhi-lasod-bb7295257)
 
@@ -99,5 +103,16 @@ I'm Juhi Lasod, a passionate and enthusiastic student from Banasthali Vidyapith.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=juhilasod&theme=algolia&no-frame=true&margin-w=4)
 
 ---
+
+
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+```
+
+<hr />
 
 > ⚡ “The only way to do great work is to love what you do.” – Steve Jobs
