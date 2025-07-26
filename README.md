@@ -41,8 +41,16 @@ I'm Juhi Lasod, a passionate and enthusiastic student from Banasthali Vidyapith.
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="CSS" />
-        <br>CSS
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="dart" />
+        <br>Dart
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
